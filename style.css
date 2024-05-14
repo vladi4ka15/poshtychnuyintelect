@@ -1,0 +1,42 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	background: rgb(175,175,175);
+background: linear-gradient(90deg, rgba(175,175,175,0.9809173669467787) 0%, rgba(255,255,255,1) 46%, rgba(171,171,171,1) 98%);
+}
+
+.popper {
+	height: 10%;
+}
+.row {
+	margin: 2%;
+}
+
+.my-acord {
+	margin-top: 6%;
+}
+
+.my-carousel {
+	margin-top: 2%;
+}
+
+.my-carousel img {
+	border-radius: 30px;
+}
+
+.card {
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+.footer {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+footer {
+	text-align: center;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	border-top: 2px solid black;
+}
