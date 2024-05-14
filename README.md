@@ -1,0 +1,2 @@
+# poshtychnuyintelect
+Selling artificial intelligence
